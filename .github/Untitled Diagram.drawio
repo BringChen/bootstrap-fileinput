@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T02:18:10.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Qk3Y3be4m8gL-pIOQpbU" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T02:23:40.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="mfzUTazslVSuqNwkijk1" version="14.5.0" type="github">
   <diagram id="9x2aGzBmHjnYjteMlRQv" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -140,9 +140,6 @@
         <mxCell id="XLqgSo40GXuVMP59MUg4-60" value="审核未通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="780" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XLqgSo40GXuVMP59MUg4-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XLqgSo40GXuVMP59MUg4-61" target="XLqgSo40GXuVMP59MUg4-64">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="XLqgSo40GXuVMP59MUg4-61" value="平台选填服务费&lt;br&gt;&amp;nbsp; &amp;nbsp;平台可指定资金方" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="170" y="1050" width="110" height="40" as="geometry" />
         </mxCell>
@@ -150,7 +147,7 @@
           <mxGeometry x="230" y="860" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XLqgSo40GXuVMP59MUg4-64" value="票据进入平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1120" width="110" height="40" as="geometry" />
+          <mxGeometry x="170" y="1210" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XLqgSo40GXuVMP59MUg4-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XLqgSo40GXuVMP59MUg4-66" target="XLqgSo40GXuVMP59MUg4-61">
           <mxGeometry relative="1" as="geometry" />
@@ -189,6 +186,18 @@
         </mxCell>
         <mxCell id="XLqgSo40GXuVMP59MUg4-78" value="经纪人选填服务费&lt;br&gt;&amp;nbsp; &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="170" y="890" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XLqgSo40GXuVMP59MUg4-85" target="XLqgSo40GXuVMP59MUg4-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-85" value="是否直接资金方" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1120" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XLqgSo40GXuVMP59MUg4-61" target="XLqgSo40GXuVMP59MUg4-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="225" y="1090" as="sourcePoint" />
+            <mxPoint x="215" y="1320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
