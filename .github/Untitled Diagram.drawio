@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T03:37:02.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="2Mzy-LADhFXdQXXRoags" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T03:52:13.422Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="UyXpqZBt97ml9wCblziL" version="14.5.0" type="github">
   <diagram id="9x2aGzBmHjnYjteMlRQv" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -299,12 +299,25 @@
           <mxGeometry x="680" y="1640" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XLqgSo40GXuVMP59MUg4-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XLqgSo40GXuVMP59MUg4-132" target="XLqgSo40GXuVMP59MUg4-140">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="555" y="1710" />
+              <mxPoint x="424" y="1710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XLqgSo40GXuVMP59MUg4-132" target="XLqgSo40GXuVMP59MUg4-166">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="1710" />
+              <mxPoint x="733" y="1710" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="XLqgSo40GXuVMP59MUg4-132" value="签署完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="1690" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XLqgSo40GXuVMP59MUg4-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XLqgSo40GXuVMP59MUg4-140">
+        <mxCell id="XLqgSo40GXuVMP59MUg4-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XLqgSo40GXuVMP59MUg4-140" target="XLqgSo40GXuVMP59MUg4-147">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="357" y="1910" as="targetPoint" />
           </mxGeometry>
@@ -313,45 +326,110 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XLqgSo40GXuVMP59MUg4-140" value="持票方是否需要支付服务费" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="1790" width="110" height="80" as="geometry" />
+          <mxGeometry x="369" y="1760" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XLqgSo40GXuVMP59MUg4-145" value="需要" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1840" width="40" height="20" as="geometry" />
+          <mxGeometry x="304" y="1820" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XLqgSo40GXuVMP59MUg4-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XLqgSo40GXuVMP59MUg4-147" target="XLqgSo40GXuVMP59MUg4-148">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XLqgSo40GXuVMP59MUg4-147" value="持票方支付服务费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="304" y="1910" width="116" height="40" as="geometry" />
+          <mxGeometry x="247.75" y="1870" width="113.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XLqgSo40GXuVMP59MUg4-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XLqgSo40GXuVMP59MUg4-148" target="XLqgSo40GXuVMP59MUg4-150">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XLqgSo40GXuVMP59MUg4-148" value="持票方是否支付" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294.5" y="1980" width="129" height="80" as="geometry" />
+          <mxGeometry x="240" y="1940" width="129" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XLqgSo40GXuVMP59MUg4-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XLqgSo40GXuVMP59MUg4-150" target="XLqgSo40GXuVMP59MUg4-157">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XLqgSo40GXuVMP59MUg4-150" value="持票方背书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="497.5" y="2080" width="115" height="40" as="geometry" />
+          <mxGeometry x="366.5" y="2040" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XLqgSo40GXuVMP59MUg4-153" value="无需支付服务费" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1940" width="100" height="20" as="geometry" />
+          <mxGeometry x="425" y="1940" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XLqgSo40GXuVMP59MUg4-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XLqgSo40GXuVMP59MUg4-157">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="555" y="2290" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XLqgSo40GXuVMP59MUg4-157" target="XLqgSo40GXuVMP59MUg4-168">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XLqgSo40GXuVMP59MUg4-157" value="持票方是否背书完成" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490.5" y="2160" width="129" height="80" as="geometry" />
+          <mxGeometry x="359.5" y="2120" width="129" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XLqgSo40GXuVMP59MUg4-160" value="背书完成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="559.5" y="2250" width="60" height="20" as="geometry" />
+        <mxCell id="XLqgSo40GXuVMP59MUg4-163" value="持票方" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="1690" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XLqgSo40GXuVMP59MUg4-161" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="505" y="2290" width="105" height="40" as="geometry" />
+        <mxCell id="XLqgSo40GXuVMP59MUg4-165" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="2050" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XLqgSo40GXuVMP59MUg4-166" target="XLqgSo40GXuVMP59MUg4-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-166" value="等待持票方完成背书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="2040" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.125;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="XLqgSo40GXuVMP59MUg4-177" target="XLqgSo40GXuVMP59MUg4-175">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="2260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XLqgSo40GXuVMP59MUg4-168" target="XLqgSo40GXuVMP59MUg4-178">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-168" value="完成背书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="517.5" y="2240" width="122.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-169" value="资方" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1690" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-173" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="2140" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XLqgSo40GXuVMP59MUg4-175" target="XLqgSo40GXuVMP59MUg4-182">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-175" value="资方打款" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="2310" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-177" value="资方" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="2240" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XLqgSo40GXuVMP59MUg4-178" target="XLqgSo40GXuVMP59MUg4-181">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="2632" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="2490" />
+              <mxPoint x="580" y="2490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-178" value="等待资方打款" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="2310" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-180" value="持票方" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="2240" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XLqgSo40GXuVMP59MUg4-181" target="XLqgSo40GXuVMP59MUg4-189">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-181" value="完成打款" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="2520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XLqgSo40GXuVMP59MUg4-182" target="XLqgSo40GXuVMP59MUg4-181">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-182" value="是否完成打款" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="2380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-186" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="2470" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-189" value="结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="2640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
