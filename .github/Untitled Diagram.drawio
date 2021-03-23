@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T02:41:12.473Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="eut86Aywj36JiwEPG-4P" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T03:05:50.635Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="7hwLziZcCX-RtmNWdgwV" version="14.5.0" type="github">
   <diagram id="9x2aGzBmHjnYjteMlRQv" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -117,6 +117,14 @@
         <mxCell id="XLqgSo40GXuVMP59MUg4-47" value="持票方账号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="640" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XLqgSo40GXuVMP59MUg4-51" target="XLqgSo40GXuVMP59MUg4-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-106" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size: 1px&quot;&gt;资金方发起报价&lt;/font&gt;&lt;/div&gt;&lt;b style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size: 1px&quot; color=&quot;#ea6b66&quot;&gt;两种情况：&lt;br style=&quot;font-size: 1px&quot;&gt;1.平台指定给他的&lt;br style=&quot;font-size: 1px&quot;&gt;2.自己主动在平台筛选的&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XLqgSo40GXuVMP59MUg4-105">
+          <mxGeometry x="-0.3863" y="4" relative="1" as="geometry">
+            <mxPoint x="-4" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="XLqgSo40GXuVMP59MUg4-51" value="资金方账号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="640" width="110" height="40" as="geometry" />
         </mxCell>
@@ -213,23 +221,53 @@
         <mxCell id="XLqgSo40GXuVMP59MUg4-91" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="1180" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XLqgSo40GXuVMP59MUg4-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XLqgSo40GXuVMP59MUg4-92" target="XLqgSo40GXuVMP59MUg4-95">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XLqgSo40GXuVMP59MUg4-92" value="资金方是否接受给他指定的票据" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="620" y="790" width="130" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="XLqgSo40GXuVMP59MUg4-95" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="627.5" y="1220" width="115" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="XLqgSo40GXuVMP59MUg4-97" value="对接第三方api，如京东" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="1110" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XLqgSo40GXuVMP59MUg4-98" target="XLqgSo40GXuVMP59MUg4-102">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="1325" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="XLqgSo40GXuVMP59MUg4-98" value="第三方api" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="1130" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XLqgSo40GXuVMP59MUg4-100" value="接受" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="1040" width="40" height="20" as="geometry" />
+        <mxCell id="XLqgSo40GXuVMP59MUg4-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XLqgSo40GXuVMP59MUg4-102">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="565" y="1400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-102" value="持票方确认报价" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1290" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-104" value="第三方api发起报价" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1300" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-109" value="同意" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1370" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-111" value="1.平台上传资金方合同&lt;br&gt;2.平台上传客户与平台的合同" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1490" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XLqgSo40GXuVMP59MUg4-112" target="XLqgSo40GXuVMP59MUg4-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.37;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XLqgSo40GXuVMP59MUg4-112" target="XLqgSo40GXuVMP59MUg4-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-112" value="是否设置服务费" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1400" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-117" value="平台上传资金方合" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="407.5" y="1490" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-123" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="1410" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-124" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="1410" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
