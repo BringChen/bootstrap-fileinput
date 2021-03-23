@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T03:12:46.687Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="BpHkUaWqlriKTyNkjyyB" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T03:25:06.843Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="2HLvD1Mn5Vfnxj5_nyQe" version="14.5.0" type="github">
   <diagram id="9x2aGzBmHjnYjteMlRQv" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -298,8 +298,17 @@
         <mxCell id="XLqgSo40GXuVMP59MUg4-129" value="资方签署合同" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="1640" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XLqgSo40GXuVMP59MUg4-132" target="XLqgSo40GXuVMP59MUg4-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XLqgSo40GXuVMP59MUg4-132" value="签署完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="1690" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-140" value="持票方是否需要支付服务费" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1770" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-142" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="1880" width="116" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
