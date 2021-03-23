@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T03:08:27.201Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Ar7C2KtdEofS7vTNJles" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T03:12:46.687Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="BpHkUaWqlriKTyNkjyyB" version="14.5.0" type="github">
   <diagram id="9x2aGzBmHjnYjteMlRQv" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -277,8 +277,29 @@
         <mxCell id="XLqgSo40GXuVMP59MUg4-124" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="635" y="1410" width="30" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XLqgSo40GXuVMP59MUg4-125" target="XLqgSo40GXuVMP59MUg4-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XLqgSo40GXuVMP59MUg4-125" target="XLqgSo40GXuVMP59MUg4-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XLqgSo40GXuVMP59MUg4-125" value="签署合同" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="1570" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XLqgSo40GXuVMP59MUg4-128" target="XLqgSo40GXuVMP59MUg4-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-128" value="持票方签署合同" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="1640" width="96" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XLqgSo40GXuVMP59MUg4-129" target="XLqgSo40GXuVMP59MUg4-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-129" value="资方签署合同" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1640" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XLqgSo40GXuVMP59MUg4-132" value="签署完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1690" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
